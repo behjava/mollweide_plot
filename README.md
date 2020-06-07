@@ -1,3 +1,3 @@
 # Plotting Mollweide distribution of data with spherical coordinates
 
-<img src="mollweide.gif" width="60" />
+<img src="mollweide.gif" width="600" />
