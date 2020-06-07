@@ -5,7 +5,7 @@ import pandas as pd
 
 ########## inputs #############
 print('')
-inputfile=raw_input("Name of the input data file (must be tab-separated) = ")
+inputfile=raw_input("The path to the input data file (must be tab-separated) = ")
 print('')
 output_image_name=raw_input("Name of the output image file with extension (default: out_image.jpg) = ")
 if output_image_name=='':
