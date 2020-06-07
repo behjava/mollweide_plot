@@ -18,3 +18,7 @@ When running the script you will be asked to provide "The path to the input data
 <p align="center">
 <img src="v_allsky_galactic.jpg" width="600" />
 </p>
+
+I used this script for the plots in two of my publications:
+Javanmardi et al. (2015), The Astrophysical Journal, https://iopscience.iop.org/article/10.1088/0004-637X/810/1/47
+Javanmardi & Kroupa (2017), Astronomy & Astrophysics, https://www.aanda.org/articles/aa/abs/2017/01/aa29408-16/aa29408-16.html
