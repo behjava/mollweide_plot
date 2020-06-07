@@ -8,7 +8,7 @@ Using Matplotlib, NumPy, and Pandas
 You can use this Python script for plotting Mollweide distribution of data with spherical coordinates (in degrees). 
 
 # All-sky Distribution
-In particular, it can quickly and simply be used for plotting the all-sky distribution of any astronomical data. 
+In particular, the script can quickly and simply be used for plotting the all-sky distribution of any astronomical data. 
 Your data file should be tab-separated with the longitude and latitude coordinates being the first and the second column, respectively, and the third column to be a quantity you need to color code.
 
 An example data file "galactic.txt" is also provided in this repository. It contains the Galactic longitude and latitude of around 60,000 galaxies, plus their recession velocity (the third column). The first and second columns can also be RA and DEC, respectively. 
